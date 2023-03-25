@@ -1,0 +1,18 @@
+
+body{
+    background-color: rgb(247, 242, 195);
+}
+h1{
+    color: rgb(249, 146, 146);
+}
+hr{
+    border-style: dotted;
+}
+.broccoli{
+    
+    background-color: red;
+}
+.biryani{
+
+    background-color: green;
+}

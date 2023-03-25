@@ -1,0 +1,25 @@
+
+body{
+    background-color:#bdf4f1;
+
+}
+hr{
+    border-color:grey;
+    border-style:none;
+    border-top-style:dotted;
+    width: 5%;
+
+}
+h3{
+    color: #66bfbf;
+    justify-content: center;
+}
+h1{
+    color: #66bfbf;
+}
+.Education{
+    position: relative;
+    margin: auto;
+    flex-direction: column-reverse;
+    cursor: pointer;
+}
